@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @mauro278
-- 👀 I’m interested in aprender a programar
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta @adilson_mauo10
+opa meu nome é adilson mauro
+sou estou interessado em aprender a programar.
+atualmente estou aprendendo a desenvolver softwares.
+tendo focó em aprender cada vez masis.
+cntt chama no insta- @adilson_mauro10
 
-<!---
-mauro278/mauro278 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
